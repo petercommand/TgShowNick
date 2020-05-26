@@ -1,2 +1,3 @@
 After getting authorization, make sure to execute and backup your contact list using the command "con". 
 Execute "coninfo" to get the names set by your telegram contact instead of the names set in your contact list (which works by first removing the contact, receiving update from tg to get their names, then adding the contact back).
+Session data is stored under tdlib.
